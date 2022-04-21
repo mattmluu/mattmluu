@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattmluu
-- 👀 I’m interested learning software developement.
-- 🌱 I’m currently learning Python and C++ (im a beginner)
+- 👀 I’m interested in software developement.
+- 🌱 I’m currently learning full stack web development.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me mattmluu@gmail.com
 
