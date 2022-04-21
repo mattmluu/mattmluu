@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattmluu
-- 👀 I’m interested in changing careers paths from studying undergraduate chemistry to software developement.
+- 👀 I’m interested learning software developement.
 - 🌱 I’m currently learning Python and C++ (im a beginner)
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me mattmluu@gmail.com
